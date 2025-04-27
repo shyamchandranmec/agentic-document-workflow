@@ -1,0 +1,77 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+__MACOSX/
+.env
+.zip
+.DS_Store
+# Confidential files
+*.key
+*.pem
+*.crt
+*.cer
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.truststore
+*.secret
+*.credentials
+*credentials.json
+*secrets.json
+*secrets.yaml
+*secrets.yml
+*secrets.properties
+*secrets.conf
+*secrets.ini
+*secrets.env
+*private_key*
+*confidential*
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+# uv package manager
+.uv/
+.venv/
+__pypackages__/
+storage/
+.python-version
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
+
+.idea
