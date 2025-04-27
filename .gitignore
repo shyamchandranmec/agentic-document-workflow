@@ -8,7 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
-
+lib/
 __MACOSX/
 .env
 .zip

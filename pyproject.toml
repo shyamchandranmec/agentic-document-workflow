@@ -5,5 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipython>=9.2.0",
     "llama-index>=0.12.33",
+    "llama-index-utils-workflow>=0.3.1",
+    "load-dotenv>=0.1.0",
 ]
