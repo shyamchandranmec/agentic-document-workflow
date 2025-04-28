@@ -5,7 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
-
+*.pdf
 # Virtual environments
 .venv
 lib/
@@ -39,7 +39,8 @@ __MACOSX/
 .DS_Store
 .AppleDouble
 .LSOverride
-
+storage
+storage_rag
 # Icon must end with two \r
 Icon
 

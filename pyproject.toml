@@ -8,5 +8,7 @@ dependencies = [
     "ipython>=9.2.0",
     "llama-index>=0.12.33",
     "llama-index-utils-workflow>=0.3.1",
+    "llama-parse>=0.6.16",
     "load-dotenv>=0.1.0",
+    "nest-asyncio>=1.6.0",
 ]
